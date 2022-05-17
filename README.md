@@ -7,8 +7,8 @@ Here, you will find all information, resources and relevant materials concerning
   | Week      | Session(s)                    | Time    |    Date      | 
 | ----------- | ------------------------------- | -------------- | -------------- |
  | 1 |  Pedagogy session 1 and 2         | 9am - 12:30pm (GMT+1)   | Wednesday 18 May/Thursday 19 May | Complete
- | 2 |  CC1: Collaborative development and delivery of a new course          | 10 - 11:30am (GMT+1)      | Thursday 26 May    | Complete
- | 3 |  CC2: Developing, launching and hosting your training project             |   10 - 11:30am (GMT+1)     |  Tuesday 31 May  | Complete
+ | 2 |  CC1: Collaborative development and delivery of a new course          | 10 - 11:30am (GMT+1)       | Thursday 26 May    | Complete
+ | 3 |  CC2: Developing, launching and hosting your training project             |   10 - 11:30am (GMT+1)       |  Tuesday 31 May  | Complete
  | 4 |  CC3: Designing training for live delivery vs. self-aced delivery       |   10 - 11am (GMT+1)  | Thursday 9 June | Complete
  | 5 |  CC4: Ethics in the context of training              |  10 - 11am (GMT+1)  | Thursday 16 June  | Complete
  | 6 |  CC5: Widening participation in the context of training          | 10 - 11am (GMT+1)    | Thursday 23 June | Complete
