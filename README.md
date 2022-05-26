@@ -19,4 +19,4 @@ Here, you will find all information, resources and relevant materials concerning
  | 11 |  CC10: Product management, sustainability, legacy and entrepreneurship         | 10 - 11am (GMT+1)    | Thursday 28 July | Complete
  | 12 |  Graduation         | TBC    | TBC | Complete
  
- All training materials will be uploaded into the relevant folder as soon as possible, and no later than one week, after the sessions took place.
+ All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place.
