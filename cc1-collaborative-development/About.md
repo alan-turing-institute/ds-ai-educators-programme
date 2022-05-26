@@ -15,3 +15,6 @@
 
 Apologies:
 - Anelda Van Der Walt _Founder and Director @ Talarify_
+
+### Collaborative document from the call
+[Etherpad document](https://pad.carpentries.org/2022-05-26-turing-lessondev)
