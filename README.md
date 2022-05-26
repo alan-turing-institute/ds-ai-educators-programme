@@ -13,7 +13,7 @@ Here, you will find all information, resources and relevant materials concerning
  | 5 |  CC4: Ethics in the context of training              |  10 - 11am (GMT+1)  | Thursday 16 June  | Complete
  | 6 |  CC5: Widening participation in the context of training          | 10 - 11am (GMT+1)    | Thursday 23 June | Complete
  | 7 |  CC6: Challenges with teaching DS and AI              |  10 - 11am (GMT+1)  | Thursday 30 June  | Complete
- | 8 |  CC7: Continuous evaluation and implementation of user/learner feedback         | 10 - 11:30am (GMT+1)    | Thursday 7 July | Complete
+ | 8 |  CC7: Continuous evaluation and implementation of user/learner feedback         | 10 - 11:00am (GMT+1)    | Wednesday 6 July | Complete
  | 9 |  CC8: Making learning memorable         | 10 - 11am (GMT+1)    | Thursday 14 July | Complete
  | 10 |  CC9: Collaboration between industry and academia in training         | 10 - 11am (GMT+1)    | Thursday 21 July | Complete
  | 11 |  CC10: Product management, sustainability, legacy and entrepreneurship         | 10 - 11am (GMT+1)    | Thursday 28 July | Complete
