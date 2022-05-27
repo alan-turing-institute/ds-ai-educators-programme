@@ -4,11 +4,11 @@
 Welcome to the pilot run of the Data Science and AI Educators' Programme.
 Here, you will find all information, resources and relevant materials concerning the programme. They have been developed openly to be used, downlaoded and amended as you need.
 
-  | Week      | Session(s)                    | Time    |    Date      | Slides and recordings |
-| ----------- | ------------------------------- | -------------- | -------------- | ---------- |
+  | Week      | Session(s)                    | Time    |    Date      | Slides and recordings             |
+| ----------- | ------------------------------- | ----------- | -------------- | -------------------- |
  | 1 |  Pedagogy session 1 and 2         | 9am - 12:30pm (GMT+1)   | Wednesday 18 May/Thursday 19 May |         |  Complete
- | 2 |  CC1: Collaborative development and delivery of a new course          | 10 - 11:30am (GMT+1)       | Thursday 26 May    |         |  Complete
- | 3 |  CC2: Developing, launching and hosting your training project             |   10 - 11:30am (GMT+1)       |  Tuesday 31 May  |          | Complete
+ | 2 |  CC1: Collaborative development and delivery of a new course          | 10 - 11:30am (GMT+1)       | Thursday 26 May    |   [Anelda Van Der Walt - Talarify](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc1-collaborative-development/Anelda-Van-Der-Walt-Talarify/Slides-and-video.md) <br/> [Mishka Nemes - The Alan Turing Institute](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc1-collaborative-development/Mishka-Nemes-The-Turing/Slides.md)  <br/> [Toby Hodges - The Carpentries](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc1-collaborative-development/Toby-Hodges-Carpentries/slides.md) <br/> [Malvika Sharan - OLS](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc1-collaborative-development/Malvika-Sharan-OLS/Slides.md)   |  Complete
+ | 3 |  CC2: Developing, launching and hosting your training project   |   10 - 11:30am (GMT+1)       |  Tuesday 31 May  |          | Complete
  | 4 |  CC3: Designing training for live delivery vs. self-aced delivery       |   10 - 11am (GMT+1)  | Thursday 9 June |         |  Complete
  | 5 |  CC4: Ethics in the context of training              |  10 - 11am (GMT+1)  | Thursday 16 June  |          | Complete
  | 6 |  CC5: Widening participation in the context of training          | 10 - 11am (GMT+1)    | Thursday 23 June |         |  Complete
