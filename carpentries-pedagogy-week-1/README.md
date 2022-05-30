@@ -5,3 +5,8 @@
 
 ## Recordings
 [The Carpentries Pedagogy Session 1 - 18 May](https://youtu.be/qMMd-65gVdw)
+
+## Collaborative documents
+[Wednesday 18 May Collaborative Document](https://pad.carpentries.org/2022-05-18-ATI)
+
+[Thursday 19 May Collaborative Document](https://pad.carpentries.org/2022-05-19-ATI)
