@@ -8,7 +8,7 @@
 - OLS, a case study: how to collaboratively develop a training programme
 - High-level training case studies from the Alan Turing Institute
 
-### Today's speakers
+### Today's speakers:
 - Toby Hodges _Director of Curriculum @ The Carpentries_
 - Malvika Sharan _Senior Researcher @ The Alan Turing Institute_
 - Mishka Nemes _Skills and Training Manager @ The Alan Turing Institute_
@@ -16,5 +16,8 @@
 Apologies:
 - Anelda Van Der Walt _Founder and Director @ Talarify_
 
-### Collaborative document from the call
+### Collaborative document from the call:
 [Etherpad document](https://pad.carpentries.org/2022-05-26-turing-lessondev)
+
+### Recording:
+[Collaborative development and delivery of a new course](https://www.youtube.com/watch?v=HYK0GiO_TRg)
