@@ -12,5 +12,5 @@
 
 
 ### Collaborative document from the call
-
+[HackMD](https://hackmd.io/7_MGYRWoR6mmf3Q9uMwK6A?both)
 
