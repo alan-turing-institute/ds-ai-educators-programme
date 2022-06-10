@@ -1,0 +1,1 @@
+[Designing training for live delivery vs. self-paced delivery - Rodrigo Sanchez-Pizani.pptx](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/8879019/Designing.training.for.live.delivery.vs.self-paced.delivery.-.Rodrigo.Sanchez-Pizani.pptx)
