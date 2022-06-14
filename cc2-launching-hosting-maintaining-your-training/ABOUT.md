@@ -15,3 +15,6 @@
 
 ### Collaborative document from the call
 [HackMD](https://hackmd.io/F83C14OqTKmfgoAc9W9BhQ?both)
+
+### Recording
+[Laucnhing, hosting and maintaining your training project](https://www.youtube.com/watch?v=AEqg9ygPk7w)
