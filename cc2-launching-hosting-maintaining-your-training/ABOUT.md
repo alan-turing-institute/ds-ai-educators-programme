@@ -8,7 +8,7 @@
 - To learn about FAIR principles and how to apply this to training materials
 
 ### Today's speakers
-- [Matt Forshaw](https://twitter.com/MattForshaw) _Head of Skills @ The Alan Turing Institute_ 
+- [Matt Forshaw](https://twitter.com/MattForshaw) _Senior Advisor for Skills @ The Alan Turing Institute_ 
 - [Sarah Gibson](https://sgibson91.github.io/) _Open Source Infrastructure Engineer @ 2i2c_
 - [Esther Plomp](https://estherplomp.github.io/) _Data Steward @ TU Delft_
 
@@ -17,4 +17,4 @@
 [HackMD](https://hackmd.io/F83C14OqTKmfgoAc9W9BhQ?both)
 
 ### Recording
-[Laucnhing, hosting and maintaining your training project](https://www.youtube.com/watch?v=AEqg9ygPk7w)
+[Launching, hosting and maintaining your training project](https://www.youtube.com/watch?v=AEqg9ygPk7w)
