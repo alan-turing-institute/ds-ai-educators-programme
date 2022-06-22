@@ -1,4 +1,3 @@
-### ds-ai-educators-programme
 # The Data Science and AI Educators' Programme
 
 Welcome to the pilot run of the Data Science and AI Educators' Programme.
