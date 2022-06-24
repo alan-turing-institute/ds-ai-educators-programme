@@ -1,7 +1,7 @@
 # The Data Science and AI Educators' Programme
 
 Welcome to the pilot run of the Data Science and AI Educators' Programme.
-Here, you will find all information, resources and relevant materials concerning the programme. They have been developed openly to be used, downlaoded and amended as you need.
+Here, you will find all information, resources and relevant materials concerning the programme. They have been developed openly to be used, downloaded and amended as you need.
 
   | Week      | Session(s)                    | Time    |    Date      | Slides |  Recordings      |   Collaborative document    |
 | ----------- | ------------------------------- | ----------- | --------------| --------------  | -------------------- |-------------------- |
@@ -10,7 +10,7 @@ Here, you will find all information, resources and relevant materials concerning
  | 3 |  CC2: Developing, launching and hosting your training project   |   10 - 11:30am (GMT+1)       |  Tuesday 31 May  |  [Sarah Gibson - Jupyter](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc2-launching-hosting-maintaining-your-training/Sarah-Gibson-Jupyter-Binder/Slides.md)       <br/> <br/> [Esther Plomp - FAIR principles](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc2-launching-hosting-maintaining-your-training/Esther-Plomp-TUDelft/Slides.md)       |  [Cohort call recording](https://www.youtube.com/watch?v=AEqg9ygPk7w)     |  [HackMD](https://hackmd.io/F83C14OqTKmfgoAc9W9BhQ)  |  Complete  |  
  | 4 |  CC3: Designing training for live delivery vs. self-aced delivery       |   10 - 11:00am (GMT+1)  | Thursday 9 June |    [Sarah Nietopski - The Alan Turing Institute](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc3-developing-training-for-live-delivery-vs-self-paced-learning/Sarah-Nietopski-The-Alan-Turing-Institute/Slides.md)  <br/> <br/> [Rodrigo Sanchez-Pizani - King's College London](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc3-developing-training-for-live-delivery-vs-self-paced-learning/Rodrigo-Sanchez-Pizani-King's-College-London/Slides.md)   |   [Cohort call recording](https://www.youtube.com/watch?v=1rE78PfZW1w)      |   [HackMD](https://hackmd.io/7_MGYRWoR6mmf3Q9uMwK6A?both)   |  Complete  |
  | 5 |  CC4: Ethics in the context of training              |  10 - 11am (GMT+1)  | Thursday 16 June  |  [Chris Burr, Claudia Fischer - Turing and David Tarrant - ODI](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc4-ethics-in-the-context-of-training/ai-educators.pdf)        |             |  [HackMD](https://hackmd.io/IDtuYddoTIqo0Wm6kacJog?view)      |  Complete  |
- | 6 |  CC5: Widening participation in the context of training          | 10 - 11am (GMT+1)    | Thursday 23 June |         |          |          | Complete  |
+ | 6 |  CC5: Widening participation in the context of training          | 10 - 11am (GMT+1)    | Thursday 23 June |   n/a      |          |  [HackMD](https://hackmd.io/fQceWS7TSf6B-yQzrYatAw?both)        | Complete  |
  | 7 |  CC6: Challenges with teaching DS and AI              |  10 - 11am (GMT+1)  | Thursday 30 June  |          |  |          |  Complete  |
  | 8 |  CC7: Continuous evaluation and implementation of user/learner feedback         | 10 - 11:00am (GMT+1)    | Wednesday 6 July |         |  |         | Complete  |
  | 9 |  CC8: Making learning memorable         | 10 - 11am (GMT+1)    | Thursday 14 July |          |  |        | Complete  |
