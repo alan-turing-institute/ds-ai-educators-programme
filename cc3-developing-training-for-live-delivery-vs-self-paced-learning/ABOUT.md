@@ -14,3 +14,5 @@
 ### Collaborative document from the call
 [HackMD](https://hackmd.io/7_MGYRWoR6mmf3Q9uMwK6A?both)
 
+### Recording
+[Developing training for live delivery vs. self-paced learning](https://www.youtube.com/watch?v=1rE78PfZW1w)
