@@ -1,1 +1,45 @@
 
+00:14:14	Ogerta Elezaj:	Good morning everyone
+00:14:14	Kwong Cheong WONG:	Good morning
+00:14:24	Luisa Cutillo:	I was just worried I had some technical problems :-)
+00:14:53	Doschmund:	Same here 🙂 I was about to send out an email.
+00:15:35	Martin Goodfellow:	Morning everyone
+00:15:55	Ayesha Dunk (she/her):	https://hackmd.io/ohIMf55ZS_eeThplfd-ERg?both
+00:19:24	Luisa Cutillo:	@graham are you planning to create brand new modules?
+00:20:11	Ayesha Dunk (she/her):	https://www.raspberrypi.org/
+00:22:30	Eric Atwell:	@Eric where/how did you learn Software Engineering as you did not do a Software Engineering BSc or PhD?
+00:24:05	Andrew Moles:	Why was Python used and not R? I've found learner find it easier to learn and get to making insights much faster with R
+00:26:39	Luisa Cutillo:	@carrie, can this be introduced at university level?
+00:27:02	Carrie Anne Philbin:	teachcomputing.org/curriculum - you can download the data science unit from here for free
+00:27:24	Luisa Cutillo:	@carrie, fantastic! Can I reach out later please?
+00:27:51	graham.cole@newcastle.ac.uk:	@ Luisa - I am indeed, beginning the first blush thinking now with a target of delivery in the 23-24 academic year
+00:29:43	Luisa Cutillo:	@graham, lot of work and very exciting.
+00:32:38	Doschmund:	@Graham-  when you are teaching non cognates, where do you start? What works well?
+00:34:28	Valentina Andries:	@Luisa: are you using programming activities as part of teaching AI to children? do you address ethics of AI?
+00:37:55	Eric Atwell:	@Carrie Anne, I could not find the Data Science unit, at teachcomputing.org/curriculum ... can you share exact URL for this specifc page?
+00:38:23	Carrie Anne Philbin:	https://teachcomputing.org/curriculum/key-stage-3/data-science
+00:38:38	Doschmund:	Thanks Graham. I never thought of it as learning a langugage. thats a great analogy
+00:39:10	Mervat Abuelkheir:	What about mapping some AI concepts such as logic and KB to levels prior to university? What could be possible challenges and what could be a good start? Would introducing robotics with some basic intelligence tasks help clarify logic, KB, and reasoning later?
+00:40:54	Ruby Chang:	Thanks Graham, a fresh view of the R/Python language.
+00:41:40	Valentina Andries:	@Carrie- regarding the data science unit: what are the teachers' level of confidence teaching such concepts? Do they need any training? How easily can such units be integrated as part of their regular teaching practices?
+00:43:34	Eric Atwell:	@Mervat, I think this course does not cover AI concepts such as logic, KB, knowledge representation and reasoning, robotics, natural language processing, computer vision, deep learning, social media analytics etc ... the course is only about teaching programming for data analysis to small classes (less than 100)
+00:44:20	Mervat Abuelkheir:	@Eric, got it, and thank you Eric :)
+00:45:02	Eric Atwell:	@Mervat, maybe Turing should LATER host another ocurse on AI Educaiton, coviering teaching of these other areas of AI
+00:46:49	Mervat Abuelkheir:	@Eric, would be good, as I've seen initiatives to teach prep and high school students elements of logic embedded in robotics programming in summer camps and I was not sure if these can be too advanced concepts
+00:49:12	Doschmund:	For teachers in the group, is there a difference in method of teaching and content in terms of teaching different generations, as there are differences technology adoptions between last decade and this one for example?
+00:54:41	Eric Atwell:	@Doschmund,  I guess fundamental concepts stay, eg CRISP-DM methodology, statistical concepts eg accuracy precsion and recall etc….  changes in technology are peripheral ... https://www.datascience-pm.com/crisp-dm-2/   https://medium.com/@erika.dauria/accuracy-recall-precision-80a5b6cbd28d
+00:57:21	Eric Atwell:	Do your data science courses include a practical Project? If so, do you use a Project textbook? If so, which Project textbook do you recommend? I am considering this one - is it any good? https://www.datascience-pm.com/crisp-dm-2/
+00:59:15	Eric Atwell:	Sorry wrong URL I menat to ask is this a good textbook for AI+DS Projects? Projects in Computing and Information Systems: a students guide  https://www.pearson.com/uk/educators/higher-education-educators/program/Dawson-Projects-in-Computing-and-Information-Systems-3rd-edn-A-Student-s-Guide-3rd-Edition/PGM1069173.html
+01:02:57	Doschmund:	In teaching Project Management, there are 2 things very important. 1. Lifecycle of an AI Project 2. how do you deliver it (i.e a project management methodology)
+01:04:05	Doschmund:	https://www.datascience-pm.com/ - provides an overview of both
+01:05:09	Doschmund:	If you are interested in knowing bit more, happy to chat to you. Thats one of my expert area 🙂
+01:05:52	Doschmund:	Also worth considering how to incorporate ethical considerations as part of the lifecycle
+01:06:21	Ayesha Dunk (she/her):	https://hackmd.io/ohIMf55ZS_eeThplfd-ERg?both
+01:06:50	Carrie Anne Philbin:	Thank you for inviting me.
+01:07:04	Eric Daub:	It was a pleasure to speak to everyone today!
+01:07:35	Luisa Cutillo:	and the chat too? :-)
+01:07:53	Ruby Chang:	Learned a lot of new ideas and will pilot them soon!
+01:07:57	Kwong Cheong WONG:	Thank you
+01:07:58	MARIA NAVAS LORO:	thank you, bye!
+01:08:01	Martin Goodfellow:	Thanks all
+01:08:01	Ruby Chang:	many thanks
