@@ -1,0 +1,101 @@
+00:11:32	Nancy Ruzycki:	Good Morning
+00:11:57	Andrew Csizmadia:	Morning all
+00:12:03	Inigo Aldazabal:	Hi there!
+00:12:04	Ogerta Elezaj:	Good Morning
+00:12:12	Haya Elayan:	Good Morning everyone
+00:12:13	Luisa Cutillo:	Hi all.
+00:12:14	Rodrigo Sánchez:	morning
+00:12:15	Ryan Reavette:	Morning all
+00:12:17	Ruby Chang:	good morning
+00:12:18	Noorhan:	Good morning everyone.
+00:12:22	Matt Forshaw (he/him):	Good morning everyone; i hope you're keeping well 🙂
+00:12:35	Kwong-Cheong Wong:	Good morning!
+00:12:37	Martin Goodfellow:	Morning everyone
+00:12:50	Adnane Ez-zizi:	Good morning
+00:12:50	shamsuddeen:	Morning from Nigeria !
+00:12:51	Riddhima Kedia:	hello!
+00:13:05	Eric Atwell:	obvius answer: we taught lectures via Zoom instead of in lecture theaters
+00:13:06	MARIA NAVAS LORO:	Good morning! I started my teaching duties right after pandemics, but I would say it forced us to adapt all activities so they can be done online... in some cases it is difficult
+00:13:13	Luisa Cutillo:	I had to transition to online delivery of course, creating videos on top of my lecture as everyone I guess. The main challenge was to make it 'interactive' even if it was asynchronous.
+00:13:30	Nancy Ruzycki:	Had to adapt experiential learning to an online environment
+00:13:46	Andrew Moles:	Morning! My role became more flexible but also busier as with in-person and remote teaching there was just more to think about, like the pros and cons of each style. It certainly provides a new environment which suits shy students (online)
+00:14:05	Anastasis Georgoulas:	Had to rethink what the best ways of providing information were, and ensure contact opportunities with students
+00:14:05	Eric Atwell:	Zoom lectures are more interactive than in-LT teachiing, as students "chat" more readily
+00:14:27	Inigo Aldazabal:	Adapt carpentries practices to online teaching was very difficult
+00:15:17	Matt Forshaw (he/him):	HackMD link: https://hackmd.io/7_MGYRWoR6mmf3Q9uMwK6A
+00:15:37	Martin Goodfellow:	Stopped giving lectures. Instead broke up lectures into short videos for each concept (max 10 mins) and used Zoom sessions for Q and As and tutorials.
+00:15:50	Eric Atwell:	Actually giving lecures via Zoom was not much different from live lectures .. .diffierences were much less important than similarities, a bit like the difference between UK and US English: more or less the same overall, even tho we notice the differences
+00:19:55	Eric Atwell:	Do you know how many UK University partners of Turing also use Moodle?  Leeds Uni uses Blackboard, the main commercial rival to Moodle
+00:20:43	Adnane Ez-zizi:	Are these Turing's online courses already available?
+00:20:50	Andrew Moles:	Most London based universities I've worked for/worked with use Moodle
+00:21:03	Eric Atwell:	How can I try this case study 1 course?  Can I re-use it for teaching Leeds Uni AI students?
+00:22:43	Eric Atwell:	WHY is it better in smaller chinks?  Surely if there is a long video, students can pause at any point?
+00:23:43	Eric Atwell:	What is “research engineering”??
+00:25:22	Ayesha Dunk (she/her):	The research engineering group includes the research software engineers and research data scientists
+00:25:37	Ayesha Dunk (she/her):	@Eric I will direct some of these questions to Sarah!
+00:26:10	Surangika  Ranathunga Ranathunga:	@sarah s it the flip class concept?
+00:26:12	Anastasis Georgoulas:	I also thought smaller chunks would be better, but when we recorded a class, some students asked for the whole recording so they can download it all at once.
+00:26:16	Ogerta Elezaj:	@Eric small videos allow the learners to start and finish each lecture in one sitting— instead of stopping in the middle and forgetting where they left off...
+00:26:40	Ruby Chang:	Are these courses aiming for people outside Turing without much data science and ai background?
+00:27:15	Eric Atwell:	A video also can also have a TRANSCRIPT, whcih students can use to recap meterial -  this is missing in a live lecture
+00:27:19	Ayesha Dunk (she/her):	@Ruby - the courses vary and will always have information on the necessary prerequisites
+00:27:57	Ayesha Dunk (she/her):	@Ruby - the courses are for anyone to attend but the prerequisites vary!
+00:28:01	MARIA NAVAS LORO:	@Eric as far as I know, students right now lose interest really fast, their average attention time is of around 10 min... maybe it is one of the reasons why they do short videos?
+00:29:04	Eric Atwell:	@Maria, maybe Leeds Uni MSc and BSc students are different, they are used to paying attention for an hour, IF the lecturer is sufficiently inspiring and enthusiastic
+00:31:01	Eric Atwell:	I have heard that “young people cannot pay attention for more than 10 minutes” but I think this is just a social panic strategy by the news media
+00:32:21	Adnane Ez-zizi:	Are you collecting data from the learner's interactions with the platform? And if yes, for what purposes?
+00:32:21	Eric Atwell:	“A social panic is a state where a social or community group reacts negatively and in an extreme or irrational manner to unexpected or unforeseen changes in their expected social status quo.” https://en.wikipedia.org/wiki/Social_panic
+00:32:34	Ruby Chang:	@ Eric there are lots of distraction when learning at home; maybe we need to tell them to block time that they can concentrate.
+00:34:05	Luisa Cutillo:	In my experience a mix of asynchronous + sync. lecture a week balnces out very well
+00:34:12	georgina:	for students who have ADHD etc and struggle to concentrate, the chunking method is much more beneficial to them
+00:34:24	Nancy Ruzycki:	You have to think about the point of the video (the agency) if the purpose of the video is a short informational video as part of a learning progression that has a different purpose than a long recorded lecture
+00:35:09	Eric Atwell:	We are competing with TV shows of 30-45 minutes, eg training on coaching and teaching by “Ted Lasso" is
+00:36:29	Eric Atwell:	@Luisa, this year I did all teaching this way, and plan to continue for next year: “In my experience a mix of asynchronous + sync. lecture a week balnces out very well"
+00:38:31	Sarah Nietopski:	@Adnane - we will be collecting some data from users about how they interact. The main purpose is to get insight into things like which courses/modules are most used, where people drop out, and things like that. (things to help us improve and develop courses in the future)
+00:38:42	Ayesha Dunk (she/her):	https://www.youtube.com/watch?v=k3EMsf9kusA
+00:39:22	Eric Atwell:	How much does this cost?  Maybe the cost of employing a lecturer?
+00:39:49	Ayesha Dunk (she/her):	https://doi.org/10.1016/B978-0-12-388435-0.50002-0
+00:40:20	Ayesha Dunk (she/her):	A good question @Eric - I will ask at the end!
+00:40:54	Sarah Nietopski:	@Surangika - most of our focus is on fully asynchronous courses, but we've been considering the flipped model for future live courses. We think it could be really useful if learners do some of the lectures etc. on their own and then use the sessions with live instructors to do Q&A/discussions/etc.
+00:41:22	Eric Atwell:	I'm a sci fi fan so might enjoy trying “alien technology”!
+00:41:45	georgina:	Related to Eric's question, is this only used at universities? It seems expensive and looks like it might be out of a secondary school's (or even primary school’s) budget
+00:43:38	Adnane Ez-zizi:	If I understand this correctly, are you providing (all) students with hardware like mics and cameras if they are attending the lectures from online?
+00:45:24	Eric Atwell:	Sorry I dont understand what is being correlated …
+00:46:53	Eric Atwell:	All these problems with acoustics etc - does this imply we should stick to video recording of Zoom lectures?
+00:47:08	Maarya Sharif:	what does ASR mean?
+00:47:26	Eric Atwell:	ASR automatic speech recognition - to get auto transcript
+00:47:37	Maarya Sharif:	ah, thanks!
+00:47:45	Eric Atwell:	(I tihkn)
+00:47:55	Eric Atwell:	(I think)
+00:49:01	Surangika  Ranathunga Ranathunga:	@Eric is correct
+00:49:22	Eric Atwell:	“bear in mind workload” - of students, or of teachers?  Probalby BOTH have more workload if you use all this tech.
+00:49:34	Surangika  Ranathunga Ranathunga:	+1 :)
+00:49:49	Andy MacLachlan:	Good point Eric, I was feeling a bit nervous hearing about all this setup
+00:49:50	Surangika  Ranathunga Ranathunga:	But some are just one-off work
+00:49:53	Adnane Ez-zizi:	I can relate with the exhaustion that comes with the use of multiple screen and trying to cater for both students joining online and in-person
+00:50:50	Eric Atwell:	“monitored by TA” - some of us don't have a spare TA to help with teaching …
+00:51:04	Ruby Chang:	I am struggling to read the chats and pay attention to the presentation at the same time :D
+00:51:37	Luisa Cutillo:	need a double screen setting :-)
+00:51:50	Eric Atwell:	@Ruby you need a TA to monitor the chat!
+00:52:32	Anastasis Georgoulas:	I get the sense that King's College was very proactive and openminded about getting equipment! Which is good ot see :)
+00:52:33	Ruby Chang:	@Eric cat is sleeping on the desk...
+00:52:53	Luisa Cutillo:	In the school of math we have cameras following the speaker. I Find that it helps a lot
+00:53:10	georgina:	Thanks Rodrigo that was really interesting 🙂
+00:54:34	Eric Atwell:	At Leeds Uni we have a room like this ... but we have thousands of taught modules, and only about 3 can use the system
+00:55:05	Maarya Sharif:	I've heard posititve feedback on the OWL camera
+00:55:06	Eric Atwell:	The other 999+ teachers have to use Zoom for lecures
+00:57:57	Eric Atwell:	How many taught modules at Kings are taught via Hyflex?
+00:58:08	Nancy Ruzycki:	We have had trouble with the owl and the mics in the room picking up voices
+00:59:45	Matt Forshaw (he/him):	HackMD link for breakout: https://hackmd.io/7_MGYRWoR6mmf3Q9uMwK6A
+01:08:33	Maja Buljan:	didn't get a chance to say thanks to my breakout room, so thanks!
+01:08:48	Maarya Sharif:	what is the GitHub link?
+01:08:54	Nancy Ruzycki:	Thanks to the speakers
+01:09:01	Matt Forshaw (he/him):	Thank you so much everyone for joining; wishing you a very nice rest of your day!
+01:09:10	Surangika  Ranathunga Ranathunga:	thanks
+01:09:12	Ruby Chang:	thank you.
+01:09:19	Martin Goodfellow:	Thanks all
+01:09:19	Anastasis Georgoulas:	Thanks everyone!
+01:09:24	Maja Buljan:	thanks everyone, see you next week!
+01:09:25	Eric Atwell:	thank you for food forvthoguht
+01:09:25	Noorhan:	Thank you very much
+01:09:27	Haya Elayan:	Thanks all
