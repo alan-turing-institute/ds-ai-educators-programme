@@ -1,0 +1,90 @@
+00:15:46	Mishka Nemes (she/her) | Alan Turing Institute:	Collaborative HackMD document - we will populate this with other links after the call https://hackmd.io/IDtuYddoTIqo0Wm6kacJog?view
+00:20:55	David Tarrant:	Auto AI animations :)
+00:25:50	Eric Atwell:	Did he say 30 participants?  I assumed these online learning resources were aimed at MOOC-style delivery to hundreds or thousands of students
+00:26:44	Luisa Cutillo:	@eric I think this involves interaction
+00:26:55	Mishka Nemes (she/her) | Alan Turing Institute:	The live delivery has a limited number of participants, the self-paced courses are open to all and therefore unlimited number of participants
+00:27:48	Luisa Cutillo:	I guessed so, a bit like this course :-)
+00:28:34	Eric Atwell:	How are students assessed, to get a Grade at the end?  For self-paced students and for live delivery - is assesment different for these 2 user groups?
+00:29:11	Luisa Cutillo:	Is there an assessment?
+00:30:56	Clau Fischer (she/her):	Link to the blogpost: https://turing-commons.netlify.app/blog/2022/10-06-2022-public-engagement/
+00:31:17	Christopher Burr (he/him) | Alan Turing Institute:	Our first two courses were actually delivered online over the course of 5 days with the participants. We're now in the process of building this into a self-directed course (e.g. MOOC style).
+00:32:00	Christopher Burr (he/him) | Alan Turing Institute:	There was no formal assessment for these courses. However, there were capstone projects at the end of the week that required the participants to draw upon the lessons learned over the previous days.
+00:33:16	jakemarshall:	Very interested in looking into these since are we reviewing our ethics and governance course as we speak! These could be fabulous resources to point our students towards (I'm in capability at the civil service 🙂)
+00:33:32	Christopher Burr (he/him) | Alan Turing Institute:	Our goal was to promote reflection and deliberation, and to see where assessment could support that. We will try to integrate some assessment into the MOOC style version, but this will always be secondary for us, as we are not dealing with questions that have "right" answers. Instead, we will be trying to assess how well participants can apply the frameworks or models in their own projects.
+00:34:10	Mishka Nemes (she/her) | Alan Turing Institute:	Please keep the questions coming - we will try to answer them in the panel discussion 😀
+00:34:34	Eric Atwell:	I wish we did not have to set and mark formal assessments in our AI teaching! https://www.linkedin.com/feed/update/urn:li:activity:6942014516708696065/
+00:35:29	Valentina Andries:	Are these courses available?
+00:35:59	jakemarshall:	Are these ODI and turing courses free? Or are they part of a subscription or?
+00:36:26	Christopher Burr (he/him) | Alan Turing Institute:	I agree, Eric. Developing effective assessments in the space of data/AI ethics is very challenging. We're going to work with a number of educational institutions over the coming months to think about how to do this responsibly.
+00:36:41	Doschmund:	I attend and recommend the Data Ethics Professional Course - Call me biased 🙂
+00:37:19	Ogerta Elezaj:	Can you share the links of the courses?
+00:37:33	Eric Atwell:	I wish we had a corpus or data-set of reusable AI assessments, preferrably with auto-grading so AI can help reduce teacher workload https://www.linkedin.com/posts/ericatwell_negotiated-offers-agreed-by-ucu-members-activity-6942014516708696065-NO3e?utm_source=linkedin_share&utm_medium=member_desktop_web
+00:37:44	Christopher Burr (he/him) | Alan Turing Institute:	Turing Commons link: https://turing-commons.netlify.app
+00:37:51	Christopher Burr (he/him) | Alan Turing Institute:	I will let David share the ODI links later.
+00:38:47	Doschmund:	https://theodi.org/events/courses/
+00:39:53	Luisa Cutillo:	Can we have the links to all these resources in a shared document please?
+00:40:11	Eric Atwell:	Do you have a corpus or text-data-set of ethics+AI case studies, so we can apply text analytics to analyse and learn from the case studies? eg see http://catalogue.elra.info/en-us/
+00:40:51	Christopher Burr (he/him) | Alan Turing Institute:	Interesting proposal, Eric. We're building a repository of case studies at the moment. WIll certainly think about how to make the information accessible for data mining and analysis/
+00:41:39	Christopher Burr (he/him) | Alan Turing Institute:	Our existing case studies are structured, but have been shared as PDFs so far—not the best for data mining!!
+00:42:13	Christopher Burr (he/him) | Alan Turing Institute:	Our goal is to develop a more structured repository, and maybe enable an API for people to access.
+00:42:37	Christopher Burr (he/him) | Alan Turing Institute:	Will certainly think about how this could be used to support ongoing research.
+00:43:16	jakemarshall:	It would also be good to group them by industry too, that way people won't need to scan through case studies to find one on ‘retail' for example 😛
+00:43:24	Mishka Nemes (she/her) | Alan Turing Institute:	@Luisa I am adding here to the bottom of the hackMD doc https://hackmd.io/IDtuYddoTIqo0Wm6kacJog?both
+00:43:33	Mishka Nemes (she/her) | Alan Turing Institute:	Adding the links*
+00:43:40	Luisa Cutillo:	Grazie!
+00:43:42	jakemarshall:	Perhaps that's too difficult a task if they cross multiple industries, but just throwing thoughts out there
+00:43:43	Eric Atwell:	The Association for Computational Linguistics collects published academic research and teaching texts, for use in AI and text analytics research, eg the ACL Anthology https://aclanthology.org/  https://www.sketchengine.eu/acl-anthology-reference-corpus-arc/
+00:43:55	Christopher Burr (he/him) | Alan Turing Institute:	Definitely, Jake. They will certyainly be domain-specific. We're working with a couple of UK CDTs at the moment to ensure this is effetcive.
+00:44:33	Christopher Burr (he/him) | Alan Turing Institute:	I think Mishka's team will advertise some upcoming workshops if anyone is here from a current CDT and would like to contribute.
+00:45:49	Mishka Nemes (she/her) | Alan Turing Institute:	Yes we will definitely advertise open upcoming opportunities with everyone here - keep an eye on Slack!
+00:46:16	Christopher Burr (he/him) | Alan Turing Institute:	And just to reiterate, these were 5-day long courses!!!
+00:47:51	Christopher Burr (he/him) | Alan Turing Institute:	I will share some links to our existing case studies once I have stopped screen sharing.
+00:49:11	Eric Atwell:	In collating the repository of case studies, please think about making them available in a range of formats - PDFs are ok for humans to read, but for text analytics, SketchEngine format is better
+00:49:11	Anastasis Georgoulas:	What kind of structured activities did you have, besides the case studies?
+00:49:59	jakemarshall:	Another thing to point out is that PDF is not accessible for screen readers for example, htmls that are correctly formatted tend to be the best solution for that, so to be as inclusive as possible, definitely include more than one version 😄
+00:50:20	Clau Fischer (she/her):	So in the Public engagement course, all of the activities where structured around a hypothetical public engagement project.
+00:50:44	Christopher Burr (he/him) | Alan Turing Institute:	Yep. It's a limitation we are working to improve. Just trying to develop the necessary infrastructure to support altenratives.
+00:51:19	Eric Atwell:	You have told us about your infrastructure; I was expecitng to learn about ethics issues in AI and how to teach about hem…
+00:51:23	Christopher Burr (he/him) | Alan Turing Institute:	Our website does follow semantic HTML best practices though, so should be screenm reader accessible.
+00:51:48	Clau Fischer (she/her):	We asked the groups to define a hypothetical project where public engagement was necessary, and then used this case throughout the course, asking them to apply the course materials to it
+00:52:06	Anastasis Georgoulas:	I see, thanks Clau!
+00:52:07	Christopher Burr (he/him) | Alan Turing Institute:	Happy to expand on tihs in the panel, Eric.
+00:52:08	jakemarshall:	Good stuff 😛! Wanted to point it out as the accessibility audit carried out on our materials pointed out problems with PDFs being separate links and requiring extensions etc 😛
+00:53:09	Eric Atwell:	By coincidence, SketchEngine format is good. for text analytics and also good for accessibility and screenreaders
+00:53:21	Anastasis Georgoulas:	+1 for Eric's question: if, as a teacher, I want to learn more about ethics, what would you suggest as a starting point? What are the most important considerations in your view? Or just go to one of the courses? :)
+00:54:14	Christopher Burr (he/him) | Alan Turing Institute:	Thanks, Anastasia. i will start the panel by addressing this.
+00:55:04	jakemarshall:	Iris lol
+00:55:11	jakemarshall:	I'm glad we ignored it on the graduate programme
+00:55:24	jakemarshall:	Much rather gapminder as at least you can pull out interesting population statistics
+00:55:27	Eric Atwell:	“bias in data” - we teach algorithms and methods for machine learning of bias in training data - is this part of “ethics in AI" courses?
+00:57:15	Clau Fischer (she/her):	https://turing-commons.netlify.app/rri/chapter3/
+00:57:21	Clau Fischer (she/her):	https://turing-commons.netlify.app/rri/chapter4/#chapter-outline?
+00:57:41	Clau Fischer (she/her):	Sorry, Im having trouble going into the project lifecycle link
+00:57:49	Clau Fischer (she/her):	https://turing-commons.netlify.app/rri/chapter2/project_lifecycle/
+00:58:01	Clau Fischer (she/her):	It is this last link
+00:58:09	Clau Fischer (she/her):	for the project lifecycle
+00:58:42	Malvika Sharan  (she/her):	Anastasia and Eric, for overview on some of the core principles of ethics in data science, you can start here: https://the-turing-way.netlify.app/ethical-research/ethical-research.html. Turing commons is a natural progression from their for deep dive.
+00:59:36	David Tarrant:	https://theodi.org/event_series/operationalising-data-ethics-webinar/
+01:01:39	Anastasis Georgoulas:	Thank you for the answers, everyone!
+01:01:54	Eric Atwell:	We have a 15-credit “Ethics in AI" module as part of our online MSc in AI at Leeds Uni
+01:02:18	David Tarrant:	Leeds is one of the organisations that we have had close collaborations with thankfully :)
+01:02:32	jakemarshall:	Very interesting David! I wonder if some of us in the Data Science Campus faculty would be interested in going on that programme! Watch this space lol, will discuss with my manager later
+01:02:38	Luisa Cutillo:	How would the collaboration happen?
+01:02:41	jakemarshall:	We can always afford to get better with ethics, particularly as the educators
+01:02:43	Luisa Cutillo:	Is there any call?
+01:03:06	Doschmund:	In the Turings common - the link to AI Ethics and Governance - doesnt open anything
+01:03:11	Doschmund:	Is the course still in development?
+01:03:33	Christopher Burr (he/him) | Alan Turing Institute:	Yes. It should go to a page that states this. I will take a look at the link after the call.
+01:03:45	Mishka Nemes (she/her) | Alan Turing Institute:	@Doschmund that course is still under development
+01:03:59	Doschmund:	thats great, thank you
+01:04:27	Christopher Burr (he/him) | Alan Turing Institute:	The code for the platform is openly available on GitHUB for anyone who is interested: https://github.com/alan-turing-institute/turing-commons
+01:04:28	jakemarshall:	Apologies everyone I have to go as I have another meeting right now 😄 Thanks so much for this session! It was incredibly insightful and super useful from my persepctive!
+01:04:44	Mishka Nemes (she/her) | Alan Turing Institute:	thank you Jake!
+01:04:50	Eric Atwell:	Do you have a 1-page syllabys summary of “ethics in AI" MSc-level course, like ours at Leeds Uni? https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202223&M=OCOM-5202M
+01:05:14	Ruby Chang:	thank you for the session and will check out the RRI links!
+01:05:48	Nancy Ruzycki:	thank you for the links
+01:05:50	Eric Atwell:	I have to go buy a birthday cake ... bye
+01:05:54	Andrew Moles:	Really interesting stuff! Thank you
+01:06:10	David Tarrant:	Not one page but the syllabus: https://docs.google.com/document/d/1-MaKcj6rmBMbrmvcFnbq3HPY5CHkm_yf3e1kb7gItz0/edit?usp=sharing
+01:06:13	Malvika Sharan  (she/her):	I will also store chat for ref
+01:06:14	Maja Buljan:	thank you all!
