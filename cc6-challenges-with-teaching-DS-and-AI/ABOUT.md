@@ -2,26 +2,27 @@
 
 ### This call will cover the following points:
 Introductions:
-- A little bit about you, who you are and where you're joining from.
-- What is your role?
-- How does Data Science and AI feature in your role?
 
-General questions:
-- What challenges or barriers have you faced in the planning/delivery of data science, AI or both?
-- What key learnings have you taken from these challenges?
-- How did you use these learnings to start to overcome/overcome these challenges?
+- Please share a bit about yourself, and your involvement in training in industry and academia
+
+General (primer) questions:
+
+- Could you share some of your experience of developing training and researcher development opportunities at the crossroad between academia and industry? 
+- What are some lessons you could share with us today about what makes an effective & sustainable collaboration between academia and industy?
+- From your current work, what do you see is missing to enable development of educational resources that are useful and relevant for both theoretical and applied researchers?
+- Beyond technical skills, what are some of the industry relevant skills needed to success in the DS & AI workforce?
 
 Wrap-up questions:
-- Top tips?
-- What 'easy wins' can you recommend? 
+
+- Could you share with us top tips / resources / repositories etc to guide DS & AI educators in learning more about this topic beyond this call?
 
 ### Today's speakers
 - Matt Forshaw (Chair)
-- Graham Cole, Newcastle University
-- Eric Daub, The Alan Turing Institute 
-- [Carrie Anne Philbin MBE](https://www.linkedin.com/in/carrieannephilbinmbe/), [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+- Graham Cole, Lecturer in Enterprise, Newcastle University
+- Darren Seymour-Russell, Accenture - Growth and Strategy Lead for Responsible AI
+- Richard Plant, The Alan Turing Institute, DSG
 
 ### Collaborative document from the call
-[HackMD](https://hackmd.io/ohIMf55ZS_eeThplfd-ERg?both)
+[HackMD](https://hackmd.io/D3wjOJAXTDWq8jSM8d8seQ)
 
 ### Recording
