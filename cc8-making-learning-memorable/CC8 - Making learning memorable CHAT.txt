@@ -1,0 +1,36 @@
+00:15:27	Arron Lacey:	my talk title has been updated to :Creating and Effective and Enjoyable Learning Experience
+00:15:54	Doschmund:	What are you all discussing in the chat? No idea
+00:16:47	Eric Atwell:	sorry I was waiting in the lobby ... what have I missed so far?
+00:16:56	Mishka Nemes (she/her) | Alan Turing Institute:	Hi Doschmund, we had a roll call questions  on 'What is your highlight from the programme so far?’
+00:17:03	MARIA NAVAS LORO:	@Doschmund the highlights of the course for each of us
+00:17:16	Mishka Nemes (she/her) | Alan Turing Institute:	@Eric - nothing major, just the usual housekeeping 😄
+00:17:23	Doschmund:	Oh I see, I didn't hear that part 🙂
+00:20:57	Eric Atwell:	“learning through dialogue” - how does this scale to classes of 200+ students?
+00:22:14	Luisa Cutillo:	@eric often my students freeze when I ask questions unfortunately, unless they are about 40 it does not work much for me
+00:25:31	David Perez-Suarez | UCL:	There was a session I attended at a mozfest a few years ago where they taught programming through dancing! It was awesome!!
+00:25:52	Adnane Ez-zizi:	Storytelling seems like a powerful tool - can you please give some ideas about how to find the stories to use in the context of AI and data science?
+00:26:05	Arron Lacey:	did they use for loops instead of hula hoops?
+00:26:22	Eric Atwell:	@Helen I notice your ppt style is different from most AI presentations, you have pictures  but very little information (text and tsbles and figures) - why did  you choose this style?  Do you prefer "podcasts”with audio only, so students do not need to stay glued to the screen?
+00:27:09	David Perez-Suarez | UCL:	In the choreography, repeatingt the steps, that were the for loops. Hula hoops could be used too!
+00:27:21	Eric Atwell:	Please put the link in the chat
+00:27:24	Andrew Moles:	This was great! We use a very question heavy form of training too 🙂
+00:27:45	Anastasis Georgoulas:	Do we have the hackmd link for this week? (to look at the links mentioned!)
+00:30:17	Mishka Nemes (she/her) | Alan Turing Institute:	HackMD link: we will be adding links as we share them here and will extract them from the presentations after this call 🙂 https://hackmd.io/P8F8b33rSpKUgAlwkGALmQ?both
+00:34:48	jakemarshall:	Also good to stay away from func, func2, func_final etc!
+00:35:49	Andrew Moles:	Totally agree about adding in fun examples!
+00:35:50	Doschmund:	Is there a reason behind complete black screen with white letters?
+00:38:03	Eric Atwell:	Many students have limited time, and choose not to do formative exercises (action), as a waste of their time - they only do practical exercises if there are marks (summative) ... how do we solve this?
+00:40:50	Adnane Ez-zizi:	@Arron what tool are you using to make your slides?
+00:41:06	Kieran Baker:	Was just about to ask that!
+00:41:51	Adnane Ez-zizi:	;-)
+00:42:10	jakemarshall:	Omg I love that picture, real world data is such a different beast
+00:42:12	Eric Atwell:	MWE = Multi Word Expression. (in natural language processing0
+00:42:16	Andrew Moles:	I'd guess https://github.com/yihui/xaringan or https://quarto.org/ but excited to find out!
+00:42:52	jakemarshall:	Kaggle is awesome for codealongs! We recently used it in our data science festival at the ONS 😄
+00:48:28	Mishka Nemes (she/her) | Alan Turing Institute:	Please keep the questions coming! 😄
+00:49:26	Arron Lacey:	@eric on assignment i like to drop, for 25% of the marks “discuss the theory behind back propagation" - that usually helps!
+00:55:30	Helen Clare (Jisc, UK):	David and I didn't plan this!
+00:57:23	Adnane Ez-zizi:	Question for both @Helen and @David: Storytelling is clearly a powerful tool, but how to create and find your stories to use in the class?
+01:00:18	Helen Clare (Jisc, UK):	This guide can help with building stories (not the ideas part!) https://www.jisc.ac.uk/guides/vision-and-strategy-toolkit/narrative-thinking-and-communication
+01:05:50	Adnane Ez-zizi:	Thanks @Helen - looks great
+01:07:49	Malvika Sharan  (she/her):	We will curate the questions and add on Slack where the speakers can respond.
