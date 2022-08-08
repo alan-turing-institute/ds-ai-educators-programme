@@ -19,4 +19,5 @@ Here, you will find all information, resources and relevant materials concerning
  | 12 |  Graduation (session 1)         | 10 - 11am (GMT+1)    | Thursday 4 August |  n/a        | _In progress_  |   [HackMD](https://hackmd.io/HeWzjj6-STeHSXk0LYAQmA)       | Complete  |
  | 13 |  Graduation (session 2)         | 3 - 4pm (GMT+1)    | Thursday 11 August |          |  |          | Complete  |
  | 14 |  Graduation (session 3)         | 2 - 3pm (GMT+1)    | Thursday 18 August |          |  |          | Complete  |
+ 
  All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place.
