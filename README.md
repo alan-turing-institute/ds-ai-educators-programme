@@ -17,7 +17,7 @@ Here, you will find all information, resources and relevant materials concerning
  | 10 |  CC9: Collaboration between industry and academia in training         | 10 - 11am (GMT+1)    | Thursday 21 July |    n/a      | _In progress_  |    [HackMD](https://hackmd.io/D3wjOJAXTDWq8jSM8d8seQ?view)     | Complete  |
  | 11 |  CC10: Product management, sustainability, legacy and entrepreneurship         | 10 - 11am (GMT+1)    | Thursday 28 July |   [Dr Alden Connor - The Alan Turing Institute](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/cc10-product-management-sustainability-and-entrepreneurship/Alden%20Connor.pptx)      | _In progress_  |   [HackMD](https://hackmd.io/hvTOsKJaSOOAhAOFHPidBg)       | Complete  |
  | 12 |  Graduation (session 1)         | 10 - 11am (GMT+1)    | Thursday 4 August |  n/a        | _In progress_  |   [HackMD](https://hackmd.io/HeWzjj6-STeHSXk0LYAQmA)       | Complete  |
- | 13 |  Graduation (session 2)         | 3 - 4pm (GMT+1)    | Thursday 11 August |          |  |          | Complete  |
- | 14 |  Graduation (session 3)         | 2 - 3pm (GMT+1)    | Thursday 18 August |          |  |          | Complete  |
+ | 13 |  Graduation (session 2)         | 3 - 4pm (GMT+1)    | Thursday 11 August |    n/a      | _In progress_  |    [HackMD](https://hackmd.io/M7Pt7Pz7RWG5grNUg90N4Q)      | Complete  |
+ | 14 |  Graduation (session 3)         | 2 - 3pm (GMT+1)    | Thursday 18 August |     n/a     | _In progress_  |   [HackMD](https://hackmd.io/5PhLABwFTSySr-TBiJY3yA)       | Complete  |
  
  All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place.
