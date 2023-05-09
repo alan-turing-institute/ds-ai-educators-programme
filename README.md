@@ -16,8 +16,8 @@ Here, you will find all information, resources and relevant materials concerning
 | 9 |  CC8: Collaborative development and delivery of teaching materials         | 13:30 - 15:00 (GMT+1)       | Wednesday 28 June     |    |  |  | Complete  |
 | 10 |  CC9: Working together to embed data science across disciplines         | 13:30 - 15:00 (GMT+1)      | Wednesday 5 July     |    |  |  | Complete  |
 | 11 |  CC10: IMaking teaching relevant to real-world problems        | 13:30 - 15:00 (GMT+1)       | Wednesday 12 July    |    |  |  | Complete  |
-| G |  Graduation         | _TBC      | TBC_    |    |  |  | Complete  |
-| G |  Graduation         | _TBC      | TBC_     |    |  |  | Complete  |
-| G |  Graduation         | _TBC      | TBC_    |    |  |  | Complete  |
+| G |  Graduation         | _TBC_      | _TBC_    |    |  |  | Complete  |
+| G |  Graduation         | _TBC_     | _TBC_     |    |  |  | Complete  |
+| G |  Graduation         | _TBC_     | _TBC_    |    |  |  | Complete  |
 
  All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place.
