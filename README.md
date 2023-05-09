@@ -21,3 +21,4 @@ Here, you will find all information, resources and relevant materials concerning
 | G |  Graduation         | _TBC_     | _TBC_    |    |  |  | Complete  |
 
  All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place.
+Content from the inaugural run of the Data Science and AI Educators' Programme, including course recordings and materials, can be found in the [2022 folder](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2022).
