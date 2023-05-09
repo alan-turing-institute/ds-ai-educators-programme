@@ -1,4 +1,4 @@
-# The Data Science and AI Educators' Programme
+# The Data Science and AI Educators' Programme 2023
 
 Welcome to the second run of the Data Science and AI Educators' Programme.
 Here, you will find all information, resources and relevant materials concerning the programme. They have been developed openly to be used, downloaded and amended as you need.
