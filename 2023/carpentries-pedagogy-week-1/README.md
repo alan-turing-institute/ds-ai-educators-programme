@@ -1,7 +1,5 @@
-# Week 1: 3 and 4 May 2023, Initial Pedagogy Sessions
+**_Week 1: 3 and 4 May 2023, Initial Pedagogy Sessions_**
 </br>
-## Recordings
-
 ## Collaborative documents
 [3 and 4 May collaborative etherpad](https://pad.carpentries.org/2023-05-03-ATI)
 
@@ -12,3 +10,5 @@
 [1-Memory and Cognitive Load.pdf](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11440527/1-Memory.and.Cognitive.Load.pdf)</br>
 [Instructor Training Day 1 - Building Skills with Practice & Feedback .pdf](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11440528/Instructor.Training.Day.1.-.Building.Skills.with.Practice.Feedback.pdf)</br>
 [Equity, inclusion and accessibility.pdf](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11440529/Equity.inclusion.and.accessibility.pdf)
+
+## Recordings
