@@ -12,3 +12,5 @@
 [Equity, inclusion and accessibility.pdf](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11440529/Equity.inclusion.and.accessibility.pdf)
 
 ## Recordings
+[Day 1 - Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11450186/Day.1.-.Zoom.chat.txt)
+[Day 2 - Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11450187/Day.2.-.Zoom.chat.txt)
