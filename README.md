@@ -6,7 +6,7 @@ Here, you will find all information, resources and relevant materials concerning
 | Week      | Session(s)                    | Time    |    Date      | Slides |  Recordings      |   Collaborative document    |
 | ----------| ------------------------------| --------| -------------| -------| -----------------|-------------------- |
 | 1 |  Pedagogy session 1 and 2         | 9am - 12:30pm (GMT+1)   | Wednesday 3 May/Thursday 4 May | [All slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2023/carpentries-pedagogy-week-1)    |  [Day 1](https://youtu.be/I09LVHs3zK4) </br> _Day 2 pending_    | [Etherpad document](https://pad.carpentries.org/2023-05-03-ATI)  | Complete  |
-| 2 |  CC1: Identifying learner needs          | 10:30 - 12:00 (GMT+1)       | Thursday 11 May    |    | _Pending_  | [Miro Board](https://miro.com/app/board/uXjVMKqctcE=/) </br> [HackMD](https://hackmd.io/cxvp9Up_Qd-X5XYn-cEsEg) | Complete  |
+| 2 |  CC1: Identifying learner needs          | 10:30 - 12:00 (GMT+1)       | Thursday 11 May    | [Slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/2023/cc1-identifying-learner-needs/README.md)   | _Pending_  | [Miro Board](https://miro.com/app/board/uXjVMKqctcE=/) </br> [HackMD](https://hackmd.io/cxvp9Up_Qd-X5XYn-cEsEg) | Complete  |
 | 3 |  CC2: Challenges of teaching DS and AI   | 13:30 - 15:00 (GMT+1)       | Wednesday 17 May    | n/a   | _Pending_ | [HackMD](https://hackmd.io/x03xAVgBQnCPTvEBYtVCfQ) | Complete  |
 | 4 |  CC3: Post-pandemic teaching: what does it look like? | 13:30 - 15:00 (GMT+1)       | Wednesday 24 May    |    |  |  | Complete  |
 | 5 |  CC4: Making learning memorable        | 13:30 - 15:00 (GMT+1)       | Wednesday 31 May    |    |  |  | Complete  |
