@@ -13,4 +13,6 @@
 
 ## Recordings
 [Day 1 - Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11450186/Day.1.-.Zoom.chat.txt) </br>
-[Day 2 - Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11450187/Day.2.-.Zoom.chat.txt)
+[Day 2 - Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11450187/Day.2.-.Zoom.chat.txt) </br>
+[Day 1 recording](https://youtu.be/I09LVHs3zK4)
+[Day 2 recording](https://youtu.be/F9rZvTPCSFk)
