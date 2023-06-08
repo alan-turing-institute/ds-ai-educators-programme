@@ -5,7 +5,7 @@
 - Janis Wong, Senior Research Associate, The Alan Turing Institute
 
 ## Resources
-1. Slides to be added here </br>
+1. [Janis Wong - slides.pptx](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11685770/Janis.Wong.-.slides.pptx) </br>
 2. [HackMD](https://hackmd.io/0PJTIjlKQsGHM3LzRKbIGg) </br>
 
 ## Recordings
