@@ -11,10 +11,10 @@ Here, you will find all information, resources and relevant materials concerning
 | 4 |  CC3: Post-pandemic teaching: what does it look like? | 13:30 - 15:00 (GMT+1)       | Wednesday 24 May    |    | [CC3 recording](https://youtu.be/wCPulHjzKO4) | [HackMD](https://hackmd.io/2CwAH3cnQMCeSG8rQDexVA)  |
 | 5 |  CC4: Making learning memorable        | 13:30 - 15:00 (GMT+1)       | Wednesday 31 May    | [Slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2022/cc8-making-learning-memorable)   | [CC4 recording](https://youtu.be/TpQfIRe_H7k)  | [HackMD](https://hackmd.io/zFu59NY8S8-l3mcoQnwZFw)  | Complete  |
 | 6 |  CC5: Embedding ethics into teaching: the background         | 13:30 - 15:00 (GMT+1)       | Wednesday 7 June    | [Slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/blob/main/2023/cc5-embedding-ethics-the-background/ReadME.md)    |  | [HackMD](https://hackmd.io/0PJTIjlKQsGHM3LzRKbIGg)  | Complete  |
-| 7 |  CC6: Embedding ethics into teaching: let's get practical         | 13:30 - 15:00 (GMT+1)       | Wednesday 14 June     |    |  |  | Complete  |
-| 8 |  CC7: Assessment and feedback         | Asynchronous      | w/c 19 June   |    |  |  | Complete  |
+| 7 |  CC6: Embedding ethics into teaching: let's get practical         | 13:30 - 15:00 (GMT+1)       | **Wednesday 21 June**     |    |  |  | Complete  |
+| 8 |  CC7: Assessment and feedback         | Asynchronous      | **w/c 12 June**   |    |  |  | Complete  |
 | 9 |  CC8: Collaborative development and delivery of teaching materials         | 13:30 - 15:00 (GMT+1)       | Wednesday 28 June     |    |  |  | Complete  |
-| 10 |  CC9: Working together to embed data science across disciplines         | 13:30 - 15:00 (GMT+1)      | Wednesday 5 July     |    |  |  | Complete  |
+| 10 |  CC9: Working together to embed data science across disciplines         | **10:30 - 12:00 (GMT+1)**      | Wednesday 5 July     |    |  |  | Complete  |
 | 11 |  CC10: IMaking teaching relevant to real-world problems        | 13:30 - 15:00 (GMT+1)       | Wednesday 12 July    |    |  |  | Complete  |
 | G |  Graduation         | _TBC_      | _TBC_    |    |  |  | Complete  |
 | G |  Graduation         | _TBC_     | _TBC_     |    |  |  | Complete  |
