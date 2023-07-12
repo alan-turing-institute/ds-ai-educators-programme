@@ -9,7 +9,6 @@
 2. [HackMD](https://hackmd.io/0PJTIjlKQsGHM3LzRKbIGg) </br>
 
 ## Recordings
-Recording to be added here </br>
 [CC5 Zoom chat.txt](https://github.com/alan-turing-institute/ds-ai-educators-programme/files/11679266/CC5.Zoom.chat.txt) </br>
 [CC5 recording](https://youtu.be/3I07Zli2b2o)
 
