@@ -14,8 +14,8 @@ Here, you will find all information, resources and relevant materials concerning
 | 7 |  CC7: Embedding ethics into teaching: let's get practical         | 13:30 - 15:00 (GMT+1)       | **Wednesday 21 June**     |    |[CC7 recording](https://youtu.be/QX4T6d-2OEM)  | [HackMD](https://hackmd.io/YnCGCwvfTqmFS3C6CSAJvQ)  | Complete  |
 | 8 |  CC6: Assessment and feedback         | Asynchronous      | **w/c 12 June**   | n/a   | n/a  | [HackMD](https://hackmd.io/N_dhTEebSkS6MjZeEABhmQ)  | Complete  |
 | 9 |  CC8: Collaborative development and delivery of teaching materials         | 13:30 - 15:00 (GMT+1)       | Wednesday 28 June     |    | [CC8 recording](https://youtu.be/tI-YVtmxG0w)  | [HackMD](https://hackmd.io/FnFm5SpvS7-OjXnXSf_Cug) | Complete  |
-| 10 |  CC9: Working together to embed data science across disciplines         | **10:30 - 12:00 (GMT+1)**      | Wednesday 5 July     |    |  | [HackMD](https://hackmd.io/JNE4HEDwT5KSE5flMkRR1w)  | Complete  |
-| 11 |  CC10: Making teaching relevant to real-world problems        | 13:30 - 15:00 (GMT+1)       | Wednesday 12 July    |    |  |  | Complete  |
+| 10 |  CC9: Working together to embed data science across disciplines         | **10:30 - 12:00 (GMT+1)**      | Wednesday 5 July     |    | [CC9 recording](https://youtu.be/wtufgkLSfSs) | [HackMD](https://hackmd.io/JNE4HEDwT5KSE5flMkRR1w)  | Complete  |
+| 11 |  CC10: Making teaching relevant to real-world problems        | 13:30 - 15:00 (GMT+1)       | Wednesday 12 July    |    |  | [HackMD](https://hackmd.io/tjH4C-gnQLKS3F9ClWLMJw)  | Complete  |
 | G |  Graduation 1        | 11:00 - 12:00 (GMT+1)      | Thursday 13 July     |    |  |  | Complete  |
 | G |  Graduation 2        |15:00 - 16:00 (GMT+1)     | Tuesday 18 July    |    |  |  | Complete  |
 | G |  Graduation 3        | 12:00 - 13:00 (GMT+1)    | Wednesday 19 July   |    |  |  | Complete  |
