@@ -16,9 +16,9 @@ Here, you will find all information, resources and relevant materials concerning
 | 9 |  CC8: Collaborative development and delivery of teaching materials         | 13:30 - 15:00 (GMT+1)       | Wednesday 28 June     |    | [CC8 recording](https://youtu.be/tI-YVtmxG0w)  | [HackMD](https://hackmd.io/FnFm5SpvS7-OjXnXSf_Cug) | Complete  |
 | 10 |  CC9: Working together to embed data science across disciplines         | **10:30 - 12:00 (GMT+1)**      | Wednesday 5 July     | [Slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2023/cc9-working-together-to-embed-data-science-across-disciplines)   | [CC9 recording](https://youtu.be/wtufgkLSfSs) | [HackMD](https://hackmd.io/JNE4HEDwT5KSE5flMkRR1w)  | Complete  |
 | 11 |  CC10: Making teaching relevant to real-world problems        | 13:30 - 15:00 (GMT+1)       | Wednesday 12 July    | [Slides](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2023/cc10-making-teaching-relevant-to-real-world-problems)   | [CC10 recording](https://youtu.be/iC6z5nHop3Y) | [HackMD](https://hackmd.io/tjH4C-gnQLKS3F9ClWLMJw)  | Complete  |
-| G |  Graduation 1        | 11:00 - 12:00 (GMT+1)      | Thursday 13 July     |    |  |  | Complete  |
-| G |  Graduation 2        |15:00 - 16:00 (GMT+1)     | Tuesday 18 July    |    |  |  | Complete  |
-| G |  Graduation 3        | 12:00 - 13:00 (GMT+1)    | Wednesday 19 July   |    |  |  | Complete  |
+| G |  Graduation 1        | 11:00 - 12:00 (GMT+1)      | Thursday 13 July     |    |  | [HackMD](https://hackmd.io/4W5uyUieQ4KGp1A44cUYKQ) | Complete  |
+| G |  Graduation 2        |15:00 - 16:00 (GMT+1)     | Tuesday 18 July    |    |  |[HackMD](https://hackmd.io/_SyJdNqwQ2aGSJJzxL3rHA)  | Complete  |
+| G |  Graduation 3        | 12:00 - 13:00 (GMT+1)    | Wednesday 19 July   |    |  |[HackMD](https://hackmd.io/k-7c_r7KQWimeIfVNOQsKQ)  | Complete  |
 
  All training materials will be uploaded into the relevant folder as soon as possible after the sessions have taken place. </br> </br>
 Content from the inaugural run of the Data Science and AI Educators' Programme, including course recordings and materials, can be found in the [2022 folder](https://github.com/alan-turing-institute/ds-ai-educators-programme/tree/main/2022).
